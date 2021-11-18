@@ -1,0 +1,16 @@
+{
+    "name": "Collosus",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "FUNDING",
+        "/category/asset_value_tracking/core-token/symbol": "FUNDX",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "250000",
+        "/category/collection/core-entity": true
+    }
+}
